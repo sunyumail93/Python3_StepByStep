@@ -6,3 +6,5 @@ Day1: Read input using ‘sys', and make the python script executable.
 Codes:
 
 Day1_ReadInput_ExecutablePython.py
+
+Day2_IfElse.py
