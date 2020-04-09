@@ -8,3 +8,6 @@ Day1_ReadInput_ExecutablePython.py
 
 Day2_IfElse.py
 * Solve the missing/extra input problem using if/else statement. Use internal function len(), print()
+
+Day3_InputOutput.py
+* Read a file, print, and write the first three columns of the first line to another new file.
