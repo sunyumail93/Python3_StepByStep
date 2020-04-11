@@ -11,3 +11,6 @@ Day2_IfElse.py
 
 Day3_InputOutput.py
 * Read a file, print, and write the first three columns of the first line to another new file.
+
+Day4_TranslateFASTA.py
+* Loop through a FASTA file containing CDS regions. Translate them into protein sequences using dictionary.
