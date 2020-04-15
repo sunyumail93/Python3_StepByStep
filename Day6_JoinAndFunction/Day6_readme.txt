@@ -14,5 +14,6 @@ GGCATCTGGGTTCTTTCCAGCTTCTGGC
 Code: Day6_JoinAndFunction.py
 
 Some notes:
-1, Use join function to concatenate values with a separator: ¡°_¡±.join(List)
+1, Use join function to concatenate values with a separator: Â¡Â°_Â¡Â±.join(List)
 2, Use self-defined function
+  Day6_JoinAndFunction.py Data.bed2 Output.fa
