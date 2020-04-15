@@ -16,4 +16,4 @@ Code: Day6_JoinAndFunction.py
 Some notes:
 1, Use join function to concatenate values with a separator: ¡°_¡±.join(List)
 2, Use self-defined function
-  Day6_JoinAndFunction.py Data.bed2 Output.fa
+3, Run the script: Day6_JoinAndFunction.py Data.bed2 Output.fa
