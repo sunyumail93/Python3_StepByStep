@@ -17,3 +17,6 @@ Day4_TranslateFASTA.py
 
 Day5_DebarcodeFASTQ_ByChuck.py
 * Loop through a FASTQ file containing sequenced reads. Find the adapter and put them into the first line of the FASTQ, and use `yield` to  be memory efficient.
+
+Day6_JoinAndFunction.py
+* Convert bed format containing RNA sequences to a FASTA format, saving the bed information in the FASTA header. Use `join` and self-defined function.
