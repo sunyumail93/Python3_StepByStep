@@ -14,3 +14,6 @@ Day3_InputOutput.py
 
 Day4_TranslateFASTA.py
 * Loop through a FASTA file containing CDS regions. Translate them into protein sequences using dictionary.
+
+Day5_DebarcodeFASTQ_ByChuck.py
+* Loop through a FASTQ file containing sequenced reads. Find the adapter and put them into the first line of the FASTQ, and use `yield` to save be memory efficient.
