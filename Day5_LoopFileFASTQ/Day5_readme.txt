@@ -13,9 +13,9 @@ AGACANCGATAGTGAACTAGTACCTGGAATTCTCGGGTGCCAAGGAACTCCAGTCACAGTCAAATCTCGTATGCC
 AAAAA#AEEEEEAAEEAAEEEEAEEEEEEEEEEEEEAEE<EEAEEE/EEEEEEEEEEEEEAEEAE/EEEEEEAAE
 Processing:
 Base on our small RNA library construction protocol:
-Adapter sequence: 5¡ä-rAppTGGAATTCTCGGGTGCCAAGG/ddC/-3¡ä
+Adapter sequence: 5Â¡Ã¤-rAppTGGAATTCTCGGGTGCCAAGG/ddC/-3Â¡Ã¤
 Then the Barcode primer containing the index Hexamer (highlighted part is reverse complement with the adapter, Hexamer):
-5¡ä-CAAGCAGAAGACGGCATACGAGATTTGACTGTGACTGGAGTTCCTTGGCACCCGAGAATTCCA-3¡ä
+5Â¡Ã¤-CAAGCAGAAGACGGCATACGAGATTTGACTGTGACTGGAGTTCCTTGGCACCCGAGAATTCCA-3Â¡Ã¤
 Then we can find them in the sequenced reads:
 AGACANCGATAGTGAACTAGTACCTGGAATTCTCGGGTGCCAAGGAACTCCAGTCACAGTCAAATCTCGTATGCC
 We have many barcode sequences, and we need to extract the Hexamer and save them into the end of line1
@@ -30,5 +30,5 @@ Some notes:
 	Use fi.readlines() to read in all data at one time. This can be memory consuming when the input is very large.
 	Day5_DebarcodeFASTQ_ByChuck.py WholeLane.fastq WholeLane.debarcoded.fastq
 2, Day5_DebarcodeFASTQ_MemoryConsuming.py:
-	This ¡®yield¡¯ key word returns a chunk everytime, until the end of the file 
+	This "yield" key word returns a chunk everytime, until the end of the file 
 	Day5_DebarcodeFASTQ_MemoryConsuming.py WholeLane.fastq WholeLane.debarcoded.fastq
