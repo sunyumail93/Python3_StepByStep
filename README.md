@@ -20,3 +20,6 @@ Day5_DebarcodeFASTQ_ByChuck.py
 
 Day6_JoinAndFunction.py
 * Convert bed format containing RNA sequences to a FASTA format, saving the bed information in the FASTA header. Use `join` and self-defined function.
+
+Day7_SplitAndDictionary.py
+* Loop through a FASTA file converted from bed file in Day 6, `split` using separator and count sequences based on the gnomonic 5´-end position (rather than the sequence itself), and report 5´-end positions and occurrence from `dictionary`
