@@ -42,14 +42,14 @@ else:
 	
 	#Prepare Tuples
 	Windows=(0,100,200,300,400,500,600,700,800,900,1000,max(Length_Tuple)+1)   #Create a Tuple containing boundaries
-	Chr=tuple(sorted(Chr_Set))												   #Sort the Set and convert to Tuple, since Set doesn't preserve a good order
+	Chr=tuple(sorted(Chr_Set))						   #Sort the Set and convert to Tuple, since Set doesn't preserve a good order
 	print("Sorted Chr:",Chr)
 	
 	#Construct 2D List called Matrix
-	Matrix=[0]*len(Chr)					#Initialize the 0 to store each Chr length distribution
+	Matrix=[0]*len(Chr)				#Initialize the 0 to store each Chr length distribution
 	for i in range(len(Chr)):
-		Matrix[i]=[0]*(len(Windows)-1)  #You cannot do Histogram=[0]*(len(Windows)-1) then do Matrix.append(Histogram), since that will make each row the same List!
-	print("Initialized Matrix:","\n",Matrix)						#Matrix initialized
+		Matrix[i]=[0]*(len(Windows)-1)
+	print("Initialized Matrix:","\n",Matrix)	#Matrix initialized
 	
 	for i in range(len(Length_Tuple)):
 		for w in range(0,len(Windows)-1):
