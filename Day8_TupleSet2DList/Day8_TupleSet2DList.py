@@ -32,7 +32,7 @@ else:
 	for line in fi:
 		line=line.split()
 		Chr_List.append(line[0])
-		Chr_Set.add(line[0])							#You can also use Chr_Set=set(Chr_Tuple) after this looping
+		Chr_Set.add(line[0])						   #You can also use Chr_Set=set(Chr_Tuple) after this looping
 		Length_List.append(int(line[2])-int(line[1]))
 	Chr_Tuple=tuple(Chr_List)
 	Length_Tuple=tuple(Length_List)
@@ -54,7 +54,7 @@ else:
 	for i in range(len(Length_Tuple)):
 		for w in range(0,len(Windows)-1):
 			if Length_Tuple[i] >= Windows[w] and Length_Tuple[i] < Windows[w+1]:	#When the Length falls into a window
-				loc=Chr.index(Chr_Tuple[i])											#Locate the index of current Chr_Tuple in Chr Tuple
+				loc=Chr.index(Chr_Tuple[i])					#Locate the index of current Chr_Tuple in Chr Tuple
 				Matrix[loc][w]+=1
 	print("Final Matrix:","\n",Matrix)
 	
