@@ -23,3 +23,6 @@ Day6_JoinAndFunction.py
 
 Day7_SplitAndDictionary.py
 * Loop through a FASTA file converted from bed file in Day 6, `split` using separator and count sequences based on the gnomonic 5´-end position (rather than the sequence itself), and report 5´-end positions and occurrence from `dictionary`
+
+Day8_TupleSet2DList.py
+* Import ATACseq peaks and store chromosome and length information using `Tuple`, then count unique chr appeared using `Set`, and get a distribution of peak lengths using `2D List (Matrix)`, finally format the Matirx into a `Pandas DataFrame`
