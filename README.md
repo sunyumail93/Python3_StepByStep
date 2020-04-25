@@ -26,3 +26,6 @@ Day7_SplitAndDictionary.py
 
 Day8_TupleSet2DList.py
 * Import ATACseq peaks and store chromosome and length information using `Tuple`, then count unique chr appeared using `Set`, and get a distribution of peak lengths using `2D List (Matrix)`, finally format the Matirx into a `Pandas DataFrame`
+
+Day9_BioPython.py
+* Import Genbank sequence record and process using Biopython package. Get familiar with `Seq`, `SeqRecord`, `SeqFeature`, `OrderedDict` objects and I/O methods
