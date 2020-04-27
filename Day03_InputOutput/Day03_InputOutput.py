@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Day3_InputOutput.py
+#Day03_InputOutput.py
 #Aim: Read a file, print, and write the first three columns of the first line to another new file. 
 
 import sys
