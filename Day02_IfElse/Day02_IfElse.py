@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Day2_IfElse.py
+#Day02_IfElse.py
 #Aim: Solve the missing/extra input problem using if/else statement. Use internal function len(), print()
 
 #This sys package communicate Python with terminal
