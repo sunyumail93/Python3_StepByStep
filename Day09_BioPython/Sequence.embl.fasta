@@ -1,0 +1,241 @@
+ID   NM_001256799; SV 3; linear; mRNA; ; UNC; 1386 BP.
+XX
+AC   NM_001256799;
+XX
+DE   Homo sapiens glyceraldehyde-3-phosphate dehydrogenase (GAPDH), transcript
+DE   variant 2, mRNA
+XX
+KW   RefSeq
+XX
+OS   Homo sapiens
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+XX
+RN   [1]
+RP   1-1386
+RX   PUBMED; 31980649.
+RA   Kennedy SA, Jarboui MA, Srihari S, Raso C, Bryan K, Dernayka L, Charitou T,
+RA   Bernal-Llinares M, Herrera-Montavez C, Krstic A, Matallanas D, Kotlyar M,
+RA   Jurisica I, Curak J, Wong V, Stagljar I, LeBihan T, Imrie L, Pillai P, Lynn
+RA   MA, Fasterius E, Al-Khalili Szigyarto C, Breen J, Kiel C, Serrano L, Rauch
+RA   N, Rukhlenko O, Kholodenko BN, Iglesias-Martinez LF, Ryan CJ, Pilkington R,
+RA   Cammareri P, Sansom O, Shave S, Auer M, Horn N, Klose F, Ueffing M, Boldt
+RA   K, Lynn DJ and Kolch W.;
+RT   "Extensive rewiring of the EGFR network in colorectal cancer cells
+RT   expressing transforming levels of KRAS(G13D)";
+RL   Nat Commun 11 (1), 499 (2020)
+XX
+RN   [2]
+RP   1-1386
+RX   PUBMED; 31387164.
+RA   Park JB, Park H, Son J, Ha SJ and Cho HS.;
+RT   "Structural Study of Monomethyl Fumarate-Bound Human GAPDH";
+RL   Mol. Cells 42 (8), 597-603 (2019)
+XX
+RN   [3]
+RP   1-1386
+RX   PUBMED; 30897319.
+RA   Malhotra H, Kumar M, Chauhan AS, Dhiman A, Chaudhary S, Patidar A, Jaiswal
+RA   P, Sharma K, Sheokand N, Raje CI and Raje M.;
+RT   "Moonlighting Protein Glyceraldehyde-3-Phosphate Dehydrogenase: A Cellular
+RT   Rapid-Response Molecule for Maintenance of Iron Homeostasis in Hypoxia";
+RL   Cell. Physiol. Biochem. 52 (3), 517-531 (2019)
+XX
+RN   [4]
+RP   1-1386
+RX   PUBMED; 30209366.
+RA   Yang JS, Hsu JW, Park SY, Li J, Oldham WM, Beznoussenko GV, Mironov AA,
+RA   Loscalzo J and Hsu VW.;
+RT   "GAPDH inhibits intracellular pathways during starvation for cellular
+RT   energy homeostasis";
+RL   Nature 561 (7722), 263-267 (2018)
+XX
+RN   [5]
+RP   1-1386
+RX   PUBMED; 22832495.
+RA   Wagener J, Schneider JJ, Baxmann S, Kalbacher H, Borelli C, Nuding S,
+RA   Kuchler R, Wehkamp J, Kaeser MD, Mailander-Sanchez D, Braunsdorf C, Hube B,
+RA   Schild L, Forssmann WG, Korting HC, Liepke C and Schaller M.;
+RT   "A peptide derived from the highly conserved protein GAPDH is involved in
+RT   tissue protection by different antifungal strategies and epithelial
+RT   immunomodulation";
+RL   J. Invest. Dermatol. 133 (1), 144-153 (2013)
+XX
+RN   [6]
+RP   1-1386
+RX   PUBMED; 20727968.
+RA   Tristan C, Shahani N, Sedlak TW and Sawa A.;
+RT   "The diverse functions of GAPDH: views from different subcellular
+RT   compartments";
+RL   Cell. Signal. 23 (2), 317-323 (2011)
+XX
+RN   [7]
+RP   1-1386
+RX   PUBMED; 730182.
+RA   Serville,F., Junien,C., Kaplan,J.C., Gachet,M., Cadoux,J. and Broustet,A.;
+RT   "Gene dosage effect for human triosephosphate isomerase and
+RT   glyceraldehyde-3-phosphate dehydrogenase in partial trisomy 12p13 and
+RT   trisomy 18p";
+RL   Hum. Genet. 45 (1), 63-69 (1978)
+XX
+RN   [8]
+RP   1-1386
+RX   PUBMED; 183598.
+RA   Edwards,Y.H., Clark,P. and Harris,H.;
+RT   "Isozymes of glyceraldehyde-3-phosphate dehydrogenase in man and other
+RT   mammals";
+RL   Ann. Hum. Genet. 40 (1), 67-77 (1976)
+XX
+RN   [9]
+RP   1-1386
+RX   PUBMED; 957435.
+RA   Mercer,W.D., Winn,S.I. and Watson,H.C.;
+RT   "Twinning in crystals of human skeletal muscle D-glyceraldehyde-3-phosphate
+RT   dehydrogenase";
+RL   J. Mol. Biol. 104 (1), 277-283 (1976)
+XX
+RN   [10]
+RP   1-1386
+RX   PUBMED; 176725.
+RA   Bruns,G.A. and Gerald,P.S.;
+RT   "Human glyceraldehyde-3-phosphate dehydrogenase in man-rodent somatic cell
+RT   hybrids";
+RL   Science 192 (4234), 54-56 (1976)
+XX
+CC   REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+CC   reference sequence was derived from HY000136.1, AF261085.1 and
+CC   BE893087.1.
+CC   On May 31, 2019 this sequence version replaced NM_001256799.2.
+CC   Summary: This gene encodes a member of the
+CC   glyceraldehyde-3-phosphate dehydrogenase protein family. The
+CC   encoded protein has been identified as a moonlighting protein based
+CC   on its ability to perform mechanistically distinct functions. The
+CC   product of this gene catalyzes an important energy-yielding step in
+CC   carbohydrate metabolism, the reversible oxidative phosphorylation
+CC   of glyceraldehyde-3-phosphate in the presence of inorganic
+CC   phosphate and nicotinamide adenine dinucleotide (NAD). The encoded
+CC   protein has additionally been identified to have uracil DNA
+CC   glycosylase activity in the nucleus. Also, this protein contains a
+CC   peptide that has antimicrobial activity against E. coli, P.
+CC   aeruginosa, and C. albicans. Studies of a similar protein in mouse
+CC   have assigned a variety of additional functions including
+CC   nitrosylation of nuclear proteins, the regulation of mRNA
+CC   stability, and acting as a transferrin receptor on the cell surface
+CC   of macrophage. Many pseudogenes similar to this locus are present
+CC   in the human genome. Alternative splicing results in multiple
+CC   transcript variants. [provided by RefSeq, Nov 2014].
+CC   Transcript Variant: This variant (2) differs in the 5' UTR and
+CC   lacks a portion of the 5' coding region compared to variant 1.
+CC   These differences cause translation initiation at a downstream
+CC   start codon and result in an isoform (2) with a shorter N-terminus
+CC   compared to isoform 1.
+CC   Publication Note:  This RefSeq record includes a subset of the
+CC   publications that are available for this gene. Please see the Gene
+CC   record to access additional publications.
+CC   SRR5189658.71208.1 [ECO:0000332]
+CC   SAMEA1965299, SAMEA1966682
+CC   [ECO:0000348]
+CC   COMPLETENESS: complete on the 3' end.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1386
+FT                   /organism="Homo sapiens"
+FT                   /mol_type="mRNA"
+FT                   /db_xref="taxon:9606"
+FT                   /chromosome="12"
+FT                   /map="12p13.31"
+FT   gene            1..1386
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /note="glyceraldehyde-3-phosphate dehydrogenase"
+FT                   /db_xref="GeneID:2597"
+FT                   /db_xref="HGNC:HGNC:4141"
+FT                   /db_xref="MIM:138400"
+FT   exon            1..206
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   misc_feature    205..207
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /note="upstream in-frame stop codon"
+FT   exon            207..306
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   CDS             304..1185
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /EC_number="1.2.1.12"
+FT                   /note="isoform 2 is encoded by transcript variant 2;
+FT                   aging-associated gene 9 protein; OCAS, p38 component;
+FT                   peptidyl-cysteine S-nitrosylase GAPDH; epididymis secretory
+FT                   sperm binding protein Li 162eP; Oct1 coactivator in S
+FT                   phase, 38 Kd component"
+FT                   /codon_start=1
+FT                   /product="glyceraldehyde-3-phosphate dehydrogenase isoform
+FT                   2"
+FT                   /protein_id="NP_001243728.1"
+FT                   /db_xref="CCDS:CCDS58201.1"
+FT                   /db_xref="GeneID:2597"
+FT                   /db_xref="HGNC:HGNC:4141"
+FT                   /db_xref="MIM:138400"
+FT                   /translation="MVYMFQYDSTHGKFHGTVKAENGKLVINGNPITIFQERDPSKIKW
+FT                   GDAGAEYVVESTGVFTTMEKAGAHLQGGAKRVIISAPSADAPMFVMGVNHEKYDNSLKI
+FT                   ISNASCTTNCLAPLAKVIHDNFGIVEGLMTTVHAITATQKTVDGPSGKLWRDGRGALQN
+FT                   IIPASTGAAKAVGKVIPELNGKLTGMAFRVPTANVSVVDLTCRLEKPAKYDDIKKVVKQ
+FT                   ASEGPLKGILGYTEHQVVSSDFNSDTHSSTFDAGAGIALNDHFVKLISWYDNEFGYSNR
+FT                   VVDLMAHMASKE"
+FT   exon            307..413
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   exon            414..504
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   exon            505..620
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   exon            621..702
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   exon            703..1115
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+FT   exon            1116..1386
+FT                   /gene="GAPDH"
+FT                   /gene_synonym="G3PD; GAPD; HEL-S-162eP"
+FT                   /inference="alignment:Splign:2.1.0"
+XX
+SQ   Sequence 1386 BP; 311 A; 412 C; 372 G; 291 T; 0 other;
+     gtccggatgc tgcgcctgcg gtagagcggc cgccatgttg caaccgggaa ggaaatgaat        60
+     gggcagccgt taggaaagcc tgccggtgac taaccctgcg ctcctgcctc gatgggtgga       120
+     gtcgcgtgtg gcggggaagt caggtggagc gaggctagct ggcccgattt ctcctccggg       180
+     tgatgctttt cctagattat tctctgattt ggtcgtattg ggcgcctggt caccagggct       240
+     gcttttaact ctggtaaagt ggatattgtt gccatcaatg accccttcat tgacctcaac       300
+     tacatggttt acatgttcca atatgattcc acccatggca aattccatgg caccgtcaag       360
+     gctgagaacg ggaagcttgt catcaatgga aatcccatca ccatcttcca ggagcgagat       420
+     ccctccaaaa tcaagtgggg cgatgctggc gctgagtacg tcgtggagtc cactggcgtc       480
+     ttcaccacca tggagaaggc tggggctcat ttgcaggggg gagccaaaag ggtcatcatc       540
+     tctgccccct ctgctgatgc ccccatgttc gtcatgggtg tgaaccatga gaagtatgac       600
+     aacagcctca agatcatcag caatgcctcc tgcaccacca actgcttagc acccctggcc       660
+     aaggtcatcc atgacaactt tggtatcgtg gaaggactca tgaccacagt ccatgccatc       720
+     actgccaccc agaagactgt ggatggcccc tccgggaaac tgtggcgtga tggccgcggg       780
+     gctctccaga acatcatccc tgcctctact ggcgctgcca aggctgtggg caaggtcatc       840
+     cctgagctga acgggaagct cactggcatg gccttccgtg tccccactgc caacgtgtca       900
+     gtggtggacc tgacctgccg tctagaaaaa cctgccaaat atgatgacat caagaaggtg       960
+     gtgaagcagg cgtcggaggg ccccctcaag ggcatcctgg gctacactga gcaccaggtg      1020
+     gtctcctctg acttcaacag cgacacccac tcctccacct ttgacgctgg ggctggcatt      1080
+     gccctcaacg accactttgt caagctcatt tcctggtatg acaacgaatt tggctacagc      1140
+     aacagggtgg tggacctcat ggcccacatg gcctccaagg agtaagaccc ctggaccacc      1200
+     agccccagca agagcacaag aggaagagag agaccctcac tgctggggag tccctgccac      1260
+     actcagtccc ccaccacact gaatctcccc tcctcacagt tgccatgtag accccttgaa      1320
+     gaggggaggg gcctagggag ccgcaccttg tcatgtacca tcaataaagt accctgtgct      1380
+     caacca                                                                 1386
+//
