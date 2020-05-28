@@ -31,4 +31,4 @@ Day09_BioPython.py
 * Import Genbank sequence record and process using Biopython package. Get familiar with `Seq`, `SeqRecord`, `SeqFeature`, `OrderedDict` objects and I/O methods
 
 Day10_ClassAndPackages.py
-* Implement Python class and other packages: `argparse`, `pandas`, `seaborn`, `matplotlib` to build a small software that can gene expression input, calculate fold changes and plot figures
+* Implement Python class and other packages: `argparse`, `pandas`, `seaborn`, `matplotlib` to build a small software that can take gene expression values as input, calculate fold changes and plot figures
